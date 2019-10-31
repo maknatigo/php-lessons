@@ -10,8 +10,9 @@ header ("Content-Type: text/html; charset=utf-8");
 <li><a href='lesson3/lesson3.1.php'>Урок 3</a></li>
 <li><a href='lesson4/1/public/'>Урок 4</a></li>
 <li><a href='lesson5/public/'>Урок 5</a></li>
-<li>Урок 6</li>
-<li>Урок 7</li>
+<li><a href='lesson6/index.php'>Урок 6</a></li>
+<li><a href='lesson7/index.php'>Урок 7</a></li>
+<li><a href='lesson8/index.php'>Урок 8</a></li>
 <li>...</li>
 </ul>
 
